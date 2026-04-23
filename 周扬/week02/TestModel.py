@@ -1,5 +1,5 @@
 '''
-测试模型
+用于模型训练过程中验证样本正确率的程序
 '''
 import torch
 import CreateSample as cs

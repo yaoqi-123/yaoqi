@@ -1,5 +1,5 @@
 '''
-创建样本
+专门用于创建样本的程序
 '''
 import numpy as np
 import torch
